@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("first");
 		System.out.println("sec");
 		System.out.println("tried");
+		System.out.println("final");
 	}
 }
