@@ -6,5 +6,4 @@ public class Test1 {
 		System.out.println("first");
 		System.out.println("sec");
 	}
-
 }
